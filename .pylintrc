@@ -19,6 +19,7 @@ disable=raw-checker-failed,
 [FORMAT]
 
 max-line-length=80
+ignore-long-lines=^\s*#
 
 [REFACTORING]
 
