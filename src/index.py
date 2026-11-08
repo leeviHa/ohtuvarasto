@@ -1,3 +1,5 @@
+from varasto import Varasto
+
 def tulosta_varastot(mehu, olut):
     print("Luonnin jälkeen:")
     print(f"Mehuvarasto: {mehu}")
